@@ -4,6 +4,8 @@ A Universal FPS Counter for games.
 # DirectX 9 
 ![fpsexample](https://github.com/DestroyerDarkNess/RenderSpy.Samples/assets/32405118/e69ba4f0-a4f2-475c-8b22-b5b71481dbab)
 
+![sa-mp-009](https://github.com/DestroyerDarkNess/Universal.FPS.Counter/assets/32405118/a5d37d25-8196-48cf-8bb3-4c6203cd5f29)
+
 
 # OpenGL
 ![CS](https://github.com/DestroyerDarkNess/Universal.FPS.Counter/assets/32405118/895e1397-5936-4ef1-8526-6e8220fbbfd6)
